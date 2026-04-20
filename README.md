@@ -28,8 +28,8 @@ The full project size exceeds **17GB**, which goes beyond GitHub’s free storag
 To keep the repository clean and accessible, only core scripts and project metadata are stored here.
 
 👉 **Download the full `Assets/` folder here:**  
-- Linear: **Google Drive:** [Linear Assets Folder](https://drive.google.com/drive/folders/14SE4Ph2MdCxOPNk0VD3J6okTuiSGPZoS?usp=sharing)
-- Spatial: **Google Drive:** [Spatial Assets Folder](https://drive.google.com/drive/folders/1YuiprpejYM5Vm2vVEnZXH14A4VhvfLHK?usp=sharing)
+-  **Linear Assets:** [Linear Assets Folder](https://drive.google.com/drive/folders/14SE4Ph2MdCxOPNk0VD3J6okTuiSGPZoS?usp=sharing)
+-  **Spatial Assets:** [Spatial Assets Folder](https://drive.google.com/drive/folders/1YuiprpejYM5Vm2vVEnZXH14A4VhvfLHK?usp=sharing)
 
 After downloading, place the `Assets/` folder into the root directory of this repository.
 
