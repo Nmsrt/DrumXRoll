@@ -17,7 +17,7 @@ Key features include:
 - 🎮 XR integration for Meta Quest 3  
 - 🧩 UI/UX flows, managers, scene controllers, and core scripts  
 
-This repository contains the **Unity project scripts**, **project settings**, and **package definitions** required to run DrumXRoll.
+This repository contains the **Unity project scripts**, **project settings**, and **package definitions** required for both linear and spatial versions to run DrumXRoll.
 
 ---
 
@@ -28,7 +28,8 @@ The full project size exceeds **17GB**, which goes beyond GitHub’s free storag
 To keep the repository clean and accessible, only core scripts and project metadata are stored here.
 
 👉 **Download the full `Assets/` folder here:**  
-**Google Drive:** [Assets Folder](https://drive.google.com/drive/folders/1_pXVf04qqTyEOWC2OpLqaTIgmt6KiOjp?usp=sharing)
+Linear: **Google Drive:** [Linear Assets Folder](https://drive.google.com/drive/folders/14SE4Ph2MdCxOPNk0VD3J6okTuiSGPZoS?usp=sharing)
+Spatial: **Google Drive:** [Spatial Assets Folder](https://drive.google.com/drive/folders/1YuiprpejYM5Vm2vVEnZXH14A4VhvfLHK?usp=sharing)
 
 After downloading, place the `Assets/` folder into the root directory of this repository.
 
